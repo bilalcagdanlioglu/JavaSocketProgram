@@ -2,4 +2,5 @@
 UDP/TCP Multithreading 
 
 Windows üzerinde Netbeans IDE ile udp ve tcp üzerine temel bir çalışma yaptım.
-Netbeans github bağlantısını yaparken hata verdiği için akşam üzeri kodlarımı yüklemeye çalışacağım.
+Çalışmanın haberleşme denemesini son committe ekledim.
+Multithreading üzerine araştırıyorum. Thread mantığı ile bir port haberleşmesi yapmaya devam ediyorum.
